@@ -1,0 +1,14 @@
+STEPS PERFORMED:
+
+1. Copying Instruction File - $ git clone https://github.com/richbighouse/mad-314-cv-assignment.git
+2. Copying Instruction File to MAD314-CV-1895757 - $ git clone https://github.com/Believe08/MAD314-CV-1895757.git
+3. Creating Report File - vi report.txt
+4. Adding Instruction File - $ git instructions.txt
+5. Commit the changes for Instructions file - $git commit -m "Adding Instructions!"
+6. Adding CV - $git resume
+7. Commit the changes - $git commit -m "Adding CV!" 
+8. Adding Report File - $git report.txt
+9. Commit the changes for Report File - $git commit -m "Adding Report!"
+10. Checking the Status - $ git status
+11. Fetch the information - $ git fetch
+12. Push file to git hub repository - $git push
